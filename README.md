@@ -6,7 +6,7 @@ Exploratory Data Analysis of 51,717 Zomato Bangalore restaurants using Python, P
 👉 [Click here to view the full notebook](https://nbviewer.org/github/DaweAnki/zomato-restaurant-analysis/blob/main/Zomato_analysis.ipynb)
 
 ## 📊 Power BI Dashboard Preview
-![Dashboard](zomatoDashboard.png)
+![Dashboard](zomato%20Dashboard.png)
 
 ## 📌 Key Insights
 - Analyzed 51,717 restaurants across Bangalore
